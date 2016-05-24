@@ -18,6 +18,24 @@ to start a web server with live reload and
 
 to build and continuously watch and compile less styles
 
+# Functionality
+
+* [ ] not implemented
+* [x] implemented
+
+### **As ANONYMOUS user**
+*Currently **no** functionality is available without authentication.
+All below operations are available for ADMIN user*
+ * [ ] I can **view/search list of features**
+ * [ ] I can **fetch specific feature** with their dependencies
+ * [ ] I can **create** new features
+
+### **As ADMIN user**
+  * [x] I can **do everything ANONYMOUS use can do**
+  * [ ] I can **see the list of features to approve**
+  * [ ] I can **approve** a feature
+  * [x] I can **modify** a feature
+  * [x] I can **delete** a feature
 
 License
 -------
