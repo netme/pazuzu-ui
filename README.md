@@ -24,7 +24,7 @@ to build and continuously watch and compile less styles
 * [x] implemented
 
 ### **As ANONYMOUS user**
-*Currently **no** functionality is available without authentication.
+*Currently __no__ functionality is available without authentication.
 All below operations are available for ADMIN user*
  * [ ] I can **view/search list of features**
  * [ ] I can **fetch specific feature** with their dependencies
